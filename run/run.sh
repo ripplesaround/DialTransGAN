@@ -1,0 +1,1 @@
+python3 run_cot_transformer.py 0 3
